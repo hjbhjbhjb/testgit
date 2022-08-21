@@ -1,0 +1,5 @@
+总用量 12
+-rw-rw-r-- 1 hjb hjb 10 8月  21 20:50 code.txt
+-rw-rw-r-- 1 hjb hjb  0 8月  21 20:56 dev.txt
+-rw-rw-r-- 1 hjb hjb  9 8月  21 20:50 README.md
+-rw-rw-r-- 1 hjb hjb 16 8月  21 20:51 test.txt
